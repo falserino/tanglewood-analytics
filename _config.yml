@@ -5,7 +5,12 @@ url: 'https://falserino.github.io' # your main domain https://falserino.github.i
 baseurl: '/tanglewood-analytics' # if you're using custom domain keep this blank example: baseurl: ''
 author: James H Herring
 description: This is a blog of thoughts, useful information, and discussions about published and unpublished research around Analytics (mostly).
-
+Footer: Edit _includes/footer.html
+Header: Edit _includes/header.html
+Links in the header: Edit _includes/links.html
+Meta tags, blog title display, and additional CSS: Edit _includes/head.html
+Index page layout: Edit _layouts/default.html
+Post layout: Edit _layouts/post.html
 
 
 
