@@ -2,12 +2,6 @@
 
 This is a brief introduction to my project. It explains what the project is about and its purpose.
 
-## Features
-
-## Jekyll instructions
-
-[Link to Jekyl](https://jekyllrb.com/docs/front-matter/)
-
 ## Contributing
 
 At this time, the only contributors will be James Herring
