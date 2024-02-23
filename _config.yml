@@ -5,6 +5,6 @@ baseurl: '/tanglewood-analytics' # if you're using custom domain keep this blank
 author: James H Herring
 description: This is a blog of thoughts, useful information, and discussions about published and unpublished research around Analytics (mostly).
 theme: jekyll-theme-hacker
-<img src="{{"images/Tanglewood2.png" | prepend: site.baseurl | prepend: site.url}}" alt="Home Logo" />
+
 
 
