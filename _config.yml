@@ -1,4 +1,6 @@
 theme: minima
 Title: The Tanglewood Blog
+url: 'https://falserino.github.io' # your main domain https://falserino.github.io/tanglewood-analytics/
+baseurl: 'tanglewood-analytics/' # if you're using custom domain keep this blank example: baseurl: ''
 author: James H Herring
 description: This is a blog of thoughts, useful information, and discussions about published and unpublished research around Analytics (mostly).
