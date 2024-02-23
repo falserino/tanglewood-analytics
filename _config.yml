@@ -1,5 +1,5 @@
-#theme: minima
-theme: jekyll-theme-hacker
+theme: minima
+#theme: jekyll-theme-hacker
 Title: The Tanglewood Blog
 url: 'https://falserino.github.io' # your main domain https://falserino.github.io/tanglewood-analytics/
 baseurl: '/tanglewood-analytics' # if you're using custom domain keep this blank example: baseurl: ''
