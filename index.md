@@ -9,4 +9,4 @@ At this time, the only contributors will be James Herring
 [comment]: <> (Jekyll Templates libraries)
 
 [comment]: <> (Below you'll find a link to Jekyll)
-[comment]: <> ([Link to Jekyl](https://jekyllrb.com/docs/front-matter/))
+[comment]: <> (https://jekyllrb.com/docs/front-matter/)
