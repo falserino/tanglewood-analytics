@@ -6,7 +6,7 @@ Hi, welcome to my blog where I discuss my perspectives and share (sometimes) res
 
 At this time, the only contributors will be James Herring
 
-[comment] ## Jekyll Templates libraries
+[comment]: <> (Jekyll Templates libraries)
 
- [comment] Below you'll find a link to Jekyll
-[comment] [Link to Jekyl](https://jekyllrb.com/docs/front-matter/)
+[comment]: <> (Below you'll find a link to Jekyll)
+[comment]: <> ([Link to Jekyl](https://jekyllrb.com/docs/front-matter/))
