@@ -6,6 +6,8 @@ Hi, welcome to my blog where I discuss my perspectives and share (sometimes) res
 
 At this time, the only contributors will be James Herring
 
+![James Herring](./images/James.jpg)
+
 [comment]: <> (Jekyll Templates libraries)
 
 [comment]: <> (Below you'll find a link to Jekyll)
